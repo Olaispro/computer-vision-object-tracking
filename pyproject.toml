@@ -1,0 +1,9 @@
+[project]
+name = "computer-vision-object-tracking"
+version = "0.1.0"
+description = "A detector-agnostic multi-object tracker with transparent association logic."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
